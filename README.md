@@ -1,4 +1,4 @@
-# Case-Study - Sentiment Analysis of Fake/Real News In Proximity to 2016 US Presidential Election
+# Case Study - Sentiment Analysis of Fake/Real News In Proximity to 2016 US Presidential Election
 This repository contains the study, deliverable, data, and reference materials necessary for a 2nd year UVA student to complete a case study performing sentiment analysis of fake/real news articles near the 2016 presidential election.
 
 # Instructions
