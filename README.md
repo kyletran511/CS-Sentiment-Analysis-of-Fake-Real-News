@@ -13,12 +13,12 @@ This repository contains two documents that provide instructions for completing 
       ├── Fake.csv      
       ├── True.csv
 │── 📂 References
-      ├──
-      ├──
-├── Sentiment Analysis of Fake/Real News Case Study Prompt.pdf
-├── Sentiment Analysis of Fake/Real News Case Study Rubric.pdf
+      ├── 2016 Pew Research Fake News Report.pdf
+      ├── Vader - A Comprehensive Guide to Sentiment Analysis in Python.pdf
 │── LICENSE 
-│── README.md     
+│── README.md
+├── Sentiment Analysis of Fake/Real News Case Study Prompt.pdf
+├── Sentiment Analysis of Fake/Real News Case Study Rubric.pdf   
 ```
 
 # Data
@@ -28,6 +28,7 @@ Alternatively, the data is sourced from Kaggle and can be accessed here: https:/
 # References
 The repository contains references to help you with the completing the studies. They are located in the references folder but also listed below:
 
-[1] 
+[1] M. B. Holcomb Amy Mitchell and Jesse, “Many Americans Believe Fake News Is Sowing Confusion,” Pew Research Center. Accessed: Apr. 27, 2025. [Online]. Available: https://www.pewresearch.org/journalism/2016/12/15/many-americans-believe-fake-news-is-sowing-confusion/
 
-[2]
+[2] L. Geetha, “Vader: A Comprehensive Guide to Sentiment Analysis in Python,” Medium. Accessed: Apr. 27, 2025. [Online]. Available: https://medium.com/@rslavanyageetha/vader-a-comprehensive-guide-to-sentiment-analysis-in-python-c4f1868b0d2e
+
